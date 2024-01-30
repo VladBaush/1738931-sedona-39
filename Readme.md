@@ -2,7 +2,7 @@
 
 * Студент: [Владислав Баушников](https://up.htmlacademy.ru/htmlcss/39/user/1738931).
 * Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/id128353).
-
+Сайт: [Мой проект седона](https://vladbaush.github.io/1738931-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
